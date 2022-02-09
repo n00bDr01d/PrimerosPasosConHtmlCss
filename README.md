@@ -4,7 +4,7 @@ Este es un resumen y apuntes des de HTML5 y CSS para las materias que dicto
 
 ## Como ver los apuntes...
 
-Solo debes abrir [html-css-cheat-sheet.html](https://n00bDr01d.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html) en tu navegador.
+Solo debes abrir [este link](https://n00bdr01d.github.io/PrimerosPasosConHtmlCss/html-css-cheat-sheet.html) en tu navegador.
 
 ## Características
 
