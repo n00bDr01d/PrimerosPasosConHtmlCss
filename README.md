@@ -1,30 +1,31 @@
-# html-css-cheat-sheet
+# Apuntes simples de CSS y HTML5
 
-A simple, curated HTML5 and CSS cheat sheet.
+Este es un resumen y apuntes des de HTML5 y CSS para las materias que dicto
 
-## Viewing the cheat sheet
+## Como ver los apuntes...
 
-Just open [html-css-cheat-sheet.html](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html) in your browser. There are no external dependencies.
+Solo debes abrir [html-css-cheat-sheet.html](https://n00bDr01d.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html) en tu navegador.
 
-## Features
+## Características
 
-- **Visual examples** show you exactly how specific values of properties will display. Less guesswork.
-- **Inline styles** are used for the specific style properties being demonstrated, but not for container elements or scaffolding. This makes it very easy to use the browser's inspector to see exactly how the style is applied and on which element to achieve the desired presentation.
-- **Property name headings** describe the CSS property, and the specific visual examples have property values underneath.
-- Coverage of the latest standards including **flexbox** and **native CSS grid layout**.
-- Coverage of **keyframe animations**, **transitions**, and use of the popular library **animate.css**.
-- Uses **responsive design** and should view well on mobile devices, tablets, and large screens.
+- **Ejemplos visuales** le muestran exactamente cómo se mostrarán los valores específicos de las propiedades. Menos trabajo...
+- **Estilos en linea** se utilizan para las propiedades de estilo específicas que se muestran, pero no para los elementos contenedores o el scaffolding. Esto hace que sea muy fácil utilizar el inspector del navegador para ver exactamente cómo se aplica el estilo y sobre qué elemento para lograr la presentación deseada...
+- **Encabezados de nombres de propiedades** describen la propiedad CSS, y los ejemplos visuales específicos tienen valores de propiedades debajo.
+- Cobertura de las últimas normas, incluyendo **flexbox** and **CSS grid layout nativo**.
+- Covertura de**animaciones de keyframe **, **transiciones**, y el uso de la biblioteca popular **animate.css**.
+- usa un **diseño responsivo** and sy debe verse bien en dispositivos móviles, tabletas y pantallas grandes.
 
-## Not a tutorial
+## No es un tutorial
 
-There are plenty of great resources to learn [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). This cheat sheet doesn't attempt to teach everything from scratch. It is a refresher and visual assist for those who already understand HTML/CSS.
+Hay muchos recursos excelentes para aprender [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) y [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). Este docuemnto no intenta enseñar todo desde cero. Es un repaso y una ayuda visual para los que estan aprendiendo HTML/CSS en las materias que dicto.
 
-This cheat sheet doesn't cover JavaScript. Consider [this tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript), or this [other one](http://javascript.info/).
+No se cubre javascript, dado que es un lenguaje de programación muy amplio. Considera [este tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript), o este [Link](http://javascript.info/).
 
-## License
+## Recursos Adicionales
+- [Quackit Tutorials](https://www.quackit.com/)
+- [HTML color codes and names](https://www.computerhope.com/htmcolor.htm#color-codes)
+- [W3Schools](https://www.w3schools.com/)
 
-MIT.
+## Licencia
 
-## Contributions
-
-Pull requests, bug reports, and suggestions are welcome. I'll generally try to respond to issues quickly, though this is a personal project and I can make no guarantees about responsiveness.
+Haz con este documento lo que quieras...
